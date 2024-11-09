@@ -9,7 +9,7 @@ const Hero = () => {
  <Navbar />
  <div className='container grid lg:grid-cols-2 h-[calc(100vh-60px)]'>
 
-  <div className='hidden lg:block mx-auto pt-20 mt-20'>
+  <div className=' lg:block mx-auto pt-20 mt-20'>
     <Image src={img} alt='img' className='w-[300px] rounded-full' />
   </div>
   <div className='text-[80px] sm:text-[100px] font-bold leading-tight flex justify-center items-center'>
